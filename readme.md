@@ -1,23 +1,22 @@
 What does DOM stand for?
  a) Document Object Model
- W3Schools - JavaScript HTML DOM
+https://www.w3schools.com/js/js_htmldom.asp
 
 Which method is used to select an element by its ID?
  c) getElementById()
-W3Schools - getElementById
+https://www.w3schools.com/jsref/met_doc_getelementbyid.asp
 
 What does document.querySelector(".box") select?
 b) The first element with class "box"
-W3Schools - querySelector
+https://www.w3schools.com/jsref/met_document_queryselector.asp
 
 How do you change the text of an element with ID "message"?
  d) document.getElementById("message").innerText = "Hello"
-  W3Schools - innerText
+  https://www.w3schools.com/jsref/prop_node_innertext.asp
 
 What is the purpose of innerHTML?
  c) To get or set the HTML content of an element
-W3Schools - innerHTML
-
+https://www.w3schools.com/jsref/prop_html_innerhtml.asp
 
 
 Events
@@ -27,112 +26,115 @@ https://www.geeksforgeeks.org/javascript-events/
 
 Which event occurs when a user clicks on an HTML element?
  c) onclick
-🔗 GeeksforGeeks - JavaScript onclick Event
+https://www.geeksforgeeks.org/javascript-onclick-event/
 
 How can you add a click event to a button in JavaScript?
 b) addEventListener("click")
-🔗 GeeksforGeeks - JavaScript addEventListener() Method
+https://www.geeksforgeeks.org/javascript-onclick-event/
 
 What does event.preventDefault() do?
 b) Stops default action like form submission
-🔗 GeeksforGeeks - JavaScript event.preventDefault() Method
+https://www.geeksforgeeks.org/javascript-event-preventdefault-method/
 
 Which method is used to attach an event handler?
 c) addEventListener()
-🔗 GeeksforGeeks - JavaScript addEventListener() Method
+https://www.geeksforgeeks.org/javascript-addeventlistener-method/
 
 
 
 Math.random()
 What does Math.random() return?
 c) A number between 0 and 1
-🔗 GeeksforGeeks - Math.random() in JavaScript
+https://www.geeksforgeeks.org/math-random-javascript/
 
 How do you get a random integer from 1 to 10?
  c) Math.floor(Math.random() * 10) + 1
-🔗 GeeksforGeeks - Generate Random Numbers in JavaScript
+https://www.geeksforgeeks.org/generate-random-numbers-javascript/
 
 What is the output range of Math.random()?
  c) 0 (inclusive) to 1 (exclusive)
-🔗 GeeksforGeeks - Math.random() in JavaScript
+https://www.geeksforgeeks.org/math-random-javascript/
 
 Which function converts a float to an integer?
  b) Math.floor()
-🔗 GeeksforGeeks - Math.floor() in JavaScript
+https://www.geeksforgeeks.org/math-floor-javascript/
 
 What will Math.floor(4.9) return?
  b) 4
-🔗 GeeksforGeeks - Math.floor() in JavaScript
+https://www.geeksforgeeks.org/math-floor-javascript/
 
 
 
 Variables
 How do you declare a variable in JavaScript?
 d) All of the above
-🔗 GeeksforGeeks - JavaScript Variables
+https://www.geeksforgeeks.org/javascript-variables/
 
 Which variable type allows reassignment?
  b) let
-🔗 GeeksforGeeks - JavaScript let Keyword
+https://www.geeksforgeeks.org/javascript-let-keyword/
 
 Which keyword declares a block-scoped variable?
 c) let
-🔗 GeeksforGeeks - JavaScript let Keyword
+https://www.geeksforgeeks.org/javascript-let-keyword/
 
 What will happen if you use a variable without declaring it?
  b) It becomes a global variable
-🔗 GeeksforGeeks - JavaScript Strict Mode
+https://www.geeksforgeeks.org/javascript-strict-mode/
 
 Which keyword creates a constant in JavaScript?
 c) const
-🔗 GeeksforGeeks - JavaScript const Keyword
+https://www.geeksforgeeks.org/javascript-const-keyword/
 
 
 
 Functions
 What is a function?
 b) A reusable block of code
-🔗 GeeksforGeeks - JavaScript Functions
+https://www.geeksforgeeks.org/javascript-functions/
 
 How do you define a function named sayHello?
 a) function sayHello() {}
-🔗 GeeksforGeeks - JavaScript Function Definitions
+https://www.geeksforgeeks.org/javascript-function-definitions/
 
 How do you call a function in JavaScript?
  c) sayHello()
-🔗 GeeksforGeeks - JavaScript Functions
+https://www.geeksforgeeks.org/javascript-functions/
 
 What is the keyword to return a value from a function?
  c) return
-🔗 GeeksforGeeks - JavaScript Return Statement
+https://www.geeksforgeeks.org/javascript-return-statement/
 
 What is a parameter in a function?
 b) A variable passed into a function
-🔗 GeeksforGeeks - JavaScript Functions
+https://www.geeksforgeeks.org/javascript-functions/
+
+
+
+
 
 Mixed Concepts
 What will typeof "hello" return?
  a) string
-🔗 GeeksforGeeks - JavaScript typeof Operator
+https://www.geeksforgeeks.org/javascript-typeof-operator/
 
 What does console.log() do?
  c) Outputs messages to the browser console
-
-🔗 GeeksforGeeks - JavaScript console.log()
+https://www.geeksforgeeks.org/javascript-console-log/
 
 How do you write a comment in JavaScript?
  b) // comment
-🔗 GeeksforGeeks - JavaScript Comments
+https://www.geeksforgeeks.org/javascript-comments/
 
 Which of these is a valid function expression?
  b) let add = function(x, y) { return x + y; }
-🔗 GeeksforGeeks - JavaScript Function Expressions
+https://www.geeksforgeeks.org/javascript-function-expressions/
 
 What does NaN mean?
  a) Not a Number
-🔗 GeeksforGeeks - JavaScript NaN
+https://www.geeksforgeeks.org/javascript-nan/
 
 Which method is used to convert a string to a number?
  a) parseInt()
-🔗 GeeksforGeeks - JavaScript parseInt() Function
+https://www.geeksforgeeks.org/javascript-parseint-function/
 
