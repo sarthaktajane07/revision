@@ -92,4 +92,42 @@ a) Not a Number https://www.geeksforgeeks.org/javascript-nan/
 a) parseInt() https://www.geeksforgeeks.org/javascript-parseint-function/
 
 
+1. Why is using let safer than var?
+let is block-scoped, meaning it's only accessible within the block it’s declared in.
+var is function-scoped and can lead to unexpected behavior due to hoisting.
+Using let prevents accidental redeclaration and scoping bugs.
+It helps make your code more predictable and clean.
+https://www.geeksforgeeks.org/difference-between-var-and-let-in-javascript/
+
+2. What is the main benefit of separating JavaScript from HTML?
+Separating JavaScript improves code maintainability and readability.
+It allows HTML and JS to evolve independently.
+Promotes reusability and cleaner architecture.
+Improves performance with script caching.
+https://www.geeksforgeeks.org/how-to-link-an-external-javascript-file/
+
+3. Why is Math.random() useful in games or UI effects?
+Math.random() helps generate unpredictable values.
+It adds variability to animations, colors, or game elements.
+Useful for dice rolls, enemy movement, or loot drops.
+Enhances user experience through randomness.
+https://www.geeksforgeeks.org/math-random-javascript/
+
+4. What happens if two event listeners are attached to the same element?
+Both event listeners will execute when the event occurs.
+They run in the order they were added.
+Using addEventListener() allows multiple handlers.
+This promotes modular and reusable code.
+https://www.geeksforgeeks.org/javascript-addeventlistener-method/
+
+5. Why should we use functions to organize code?
+Functions break code into reusable, logical blocks.
+They avoid repetition and simplify debugging.
+Improve code readability and structure.
+Allow easier testing and maintenance.
+https://www.geeksforgeeks.org/javascript-functions/
+
+
+
+
 
