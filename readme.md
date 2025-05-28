@@ -23,7 +23,7 @@ W3Schools - innerHTML
 Events
 What is an event in JavaScript?
  b) A user or browser action
-🔗 GeeksforGeeks - JavaScript Events
+https://www.geeksforgeeks.org/javascript-events/
 
 Which event occurs when a user clicks on an HTML element?
  c) onclick
